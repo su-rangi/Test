@@ -3,6 +3,7 @@ colour unicorn
 red
 green
 blue
+indigo
 unicorn
 yellow
 purple
